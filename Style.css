@@ -11,6 +11,10 @@ Body {
     
 }
 
+p {
+  background-color: dodgerblue;
+}
+
 .uno {
   margin: 10px;  
   padding: 20px;
