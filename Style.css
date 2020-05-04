@@ -1,0 +1,31 @@
+h1 {
+    font-size: 30px;
+    line-height: normal; 
+    margin: 10px;
+    
+    
+}
+
+Body {
+    font-size: 20px;
+    
+}
+
+.uno {
+  margin: 10px;  
+  padding: 20px;
+  background-color: #bec1c5;
+  border: 5px solid #4f5053;
+
+  color: #000000;
+}
+
+.razmetka {
+    display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
